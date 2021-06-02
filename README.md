@@ -1,24 +1,11 @@
-# README
+# OAuth Practice 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### About this Repo
+This repository is created to be used with the workshop on [this lesson plan](https://backend.turing.edu/module3/lessons/intro_to_oauth).
 
-Things you may want to cover:
+## Local Setup
+using rails _5.2.5_
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Clone the repo
+2. Install gem packages: `bundle install`
+3. Setup the database: `rake db:create`
